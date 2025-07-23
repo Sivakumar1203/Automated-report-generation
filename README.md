@@ -31,3 +31,5 @@ This project is a data analysis automation script that generates a formatted PDF
 *Format and export results using fpdf.
  *Fully automated and customizable report layout.
 
+#output:
+[study pdf.pdf](https://github.com/user-attachments/files/21388398/study.pdf.pdf)
